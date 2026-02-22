@@ -28,5 +28,5 @@
 - Self-Scheduling Simulation (Work in Progress)
 
 ## 📫 Connect With Me
-- LinkedIn: (add link)
-- Email: (optional)
+- LinkedIn: (www.linkedin.com/in/drishti-s06)
+
