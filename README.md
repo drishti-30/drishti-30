@@ -1,41 +1,32 @@
+# Hi, I'm Drishti 
 
-# 👋 Hi, I'm Drishti!
+##  About Me
+- Research enthusiast in Distributed Systems & Load Balancing
+- Interested in Self-Scheduling Algorithms
+- Working on TCP Client-Server Systems in Java
+- Exploring Parallel Computing & Performance Optimization
 
-🎓 B.Tech Computer Science & Engineering student at GNDU (Regional Campus, Jalandhar)  
-💡 Passionate about exploring the intersection of Python, AI, and real-world impact  
+##  Tech Stack
+- Java (Core + Networking)
+- Data Structures & Algorithms
+- TCP/IP Networking
+- Git & GitHub
 
-🔬 Aspiring Researcher | 📊 Future Data Scientist  
-Currently building a strong foundation in Python, AI/ML, and open-source development.
+##  Currently Learning
+- Advanced Distributed Systems
+- Self-Scheduling Algorithms
+- Multithreaded Server Design
 
----
+##  Research Interests
+- Load Balancing in Heterogeneous Systems
+- Doall Loops Scheduling
+- Communication vs Computation Trade-offs
 
-## 🌱 What I’m Learning
-- Python (core + libraries like Pandas, NumPy, Matplotlib)
-- Data Science foundations (statistics, visualization, machine learning)
-- Research skills (project structuring, academic writing, real-world applications)
-- Git & GitHub for collaboration
-
----
-
-## 🔭 Projects in Progress
-- 🤖 Voice Assistant for Blind Navigation (AI + Python)
-- 📈 Data Analysis Projects (Kaggle Datasets)
-- 🔊 Text-to-Speech & Image Recognition Projects
-
----
-
-## 🎯 My Goals
-- Become a researcher contributing to innovative tech solutions
-- Build a career in data science through hands-on projects and AI learning
-- Publish research or participate in competitions (e.g., DRDO, Kaggle)
-- Create open-source projects that solve real-world problems
-
----
+##  Projects
+- Multi-client TCP Server in Java
+- Array-based Data Structures Implementation
+- Self-Scheduling Simulation (Work in Progress)
 
 ## 📫 Connect With Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/drishti-undefined-5b9427331)
-- 📁 Projects coming soon on: [github.com/drishti-30](https://github.com/drishti-30)
-
----
-
-> 💬 *“Combining research and data to build meaningful, intelligent solutions.”*
+- LinkedIn: (add link)
+- Email: (optional)
