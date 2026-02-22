@@ -27,6 +27,6 @@
 - Array-based Data Structures Implementation
 - Self-Scheduling Simulation (Work in Progress)
 
-## 📫 Connect With Me
+##  Connect With Me
 - LinkedIn: (www.linkedin.com/in/drishti-s06)
 
